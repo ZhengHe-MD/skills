@@ -1,0 +1,3 @@
+# The ruleset encodes the author's taste, not a configurable standard
+
+The skill's definition of "natural Chinese" is the author's own judgment of what good translation/writing sounds like, hard-coded as the general default rather than exposed as a configurable voice/register parameter. This was a genuine choice — a pluggable "point at your own reference writing" mechanism was considered and rejected. Worth recording because the repo is public ("fork and adapt" framing) and a future reader could reasonably expect a general-purpose skill to be parameterized or stylistically neutral; it deliberately isn't. Anyone who disagrees with the taste encoded here is expected to fork and edit the rules directly, not configure them at runtime.
