@@ -1,0 +1,5 @@
+# Generalize to all languages, not Chinese-only
+
+`too-ai` was originally scoped to Chinese only — the whole design session up to this point assumed a Chinese-specific problem, and an earlier draft was written entirely in Chinese. We generalized it to work on text in any language, because the underlying mechanism doesn't actually depend on Chinese: nominalization-as-verb, throat-clearing openers, the "not just X, it's Y" skeleton, and rhythmic uniformity are all well-documented AI-tells in English too, not quirks specific to Chinese. The skill file itself is now written in English, to match the rest of this repo and be legible to the broader `npx skills add` audience, while the register-matching mechanism resolves to a different named exemplar depending on the language of the text being rewritten (see [[0005-style-exemplar-ruanyifeng]]).
+
+This makes `too-ai` more broadly useful at essentially no extra cost: the structural principles needed no rework, and the part that is language-specific — which real person embodies "plain and accessible" in that language — was already designed as a swappable mechanism, not baked into the principles themselves.

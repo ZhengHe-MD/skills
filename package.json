@@ -1,0 +1,19 @@
+{
+  "name": "zhenghe-md-skills",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Personal collection of Claude Code skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhengHe-MD/skills"
+  },
+  "license": "MIT",
+  "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version"
+  },
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.7.0",
+    "@changesets/cli": "^2.30.0"
+  }
+}
