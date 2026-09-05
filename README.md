@@ -24,6 +24,13 @@ Install everything:
 npx skills add ZhengHe-MD/skills --all
 ```
 
+## Skills
+
+| Skill | Use |
+| --- | --- |
+| [too-ai](skills/too-ai/SKILL.md) | Rewrite machine-sounding text in plain language without changing its facts. |
+| [badminton-video-editing](skills/badminton-video-editing/SKILL.md) | Cut a complete training record or one-clip-per-routine highlights, with no labels. |
+
 ## Layout
 
 ```
