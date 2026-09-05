@@ -1,6 +1,6 @@
 # skills
 
-Personal collection of Claude Code skills, distributed via `npx skills add ZhengHe-MD/skills`. Currently home to one skill in progress: `too-ai`, which removes AI 味儿 from written text in any language.
+Personal collection of Claude Code skills, distributed via `npx skills add ZhengHe-MD/skills`. Includes `too-ai`, which removes AI 味儿 from written text in any language, and [badminton-video-editing](skills/badminton-video-editing/SKILL.md), which produces training records or highlights. The language notes below describe `too-ai`.
 
 ## Language
 
