@@ -30,6 +30,7 @@ npx skills add ZhengHe-MD/skills --all
 | --- | --- |
 | [too-ai](skills/too-ai/SKILL.md) | Rewrite machine-sounding text in plain language without changing its facts. |
 | [badminton-video-editing](skills/badminton-video-editing/SKILL.md) | Cut a complete training record or one-clip-per-routine highlights, with no labels. |
+| [engoo-daily-news-writer](skills/engoo-daily-news-writer/SKILL.md) | Turn a news article into an Engoo Daily News ESL lesson at levels 4-9. |
 
 ## Layout
 
