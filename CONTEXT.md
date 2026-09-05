@@ -1,6 +1,6 @@
 # skills
 
-Personal collection of Claude Code skills, distributed via `npx skills add ZhengHe-MD/skills`. Includes `too-ai`, which removes AI 味儿 from written text in any language, and [badminton-video-editing](skills/badminton-video-editing/SKILL.md), which produces training records or highlights. The language notes below describe `too-ai`.
+Personal collection of Claude Code skills, distributed via `npx skills add ZhengHe-MD/skills`. Includes `too-ai`, which removes AI 味儿 from written text in any language, and [badminton-video-editing](skills/badminton-video-editing/SKILL.md), which produces training records or highlights, and [engoo-daily-news-writer](skills/engoo-daily-news-writer/SKILL.md), which turns a web article into an Engoo Daily News ESL lesson. The language notes below describe `too-ai`.
 
 ## Language
 
